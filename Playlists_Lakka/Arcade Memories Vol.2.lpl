@@ -1,0 +1,76 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/storage/roms/Arcade Memories Vol.2/chukatai.zip",
+      "label": "Chuka Taisen (Cloud Master)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "C9B51168|crc",
+      "db_name": "Arcade Memories Vol.2.lpl"
+    },
+    {
+      "path": "/storage/roms/Arcade Memories Vol.2/crimec.zip",
+      "label": "Crime City",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "43FD490D|crc",
+      "db_name": "Arcade Memories Vol.2.lpl"
+    },
+    {
+      "path": "/storage/roms/Arcade Memories Vol.2/ktiger2.zip",
+      "label": "Kyukyoku Tiger II",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "C5D87833|crc",
+      "db_name": "Arcade Memories Vol.2.lpl"
+    },
+    {
+      "path": "/storage/roms/Arcade Memories Vol.2/nightstr.zip",
+      "label": "Night Striker",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "90307DA8|crc",
+      "db_name": "Arcade Memories Vol.2.lpl"
+    },
+    {
+      "path": "/storage/roms/Arcade Memories Vol.2/opwolf.zip",
+      "label": "Operation Wolf",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "0E056742|crc",
+      "db_name": "Arcade Memories Vol.2.lpl"
+    },
+    {
+      "path": "/storage/roms/Arcade Memories Vol.2/retofinv.zip",
+      "label": "Return of the Invaders",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "BB87612B|crc",
+      "db_name": "Arcade Memories Vol.2.lpl"
+    },
+    {
+      "path": "/storage/roms/Arcade Memories Vol.2/tndrcadej.zip",
+      "label": "Tokusyu Butai U.A.G",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "E0B87238|crc",
+      "db_name": "Arcade Memories Vol.2.lpl"
+    },
+    {
+      "path": "/storage/roms/Arcade Memories Vol.2/wardner.zip",
+      "label": "Wardner",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "E44D1F72|crc",
+      "db_name": "Arcade Memories Vol.2.lpl"
+    }
+  ]
+}

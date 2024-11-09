@@ -1,0 +1,92 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/storage/roms/Paddle & Trackball Games/arkanoid.zip",
+      "label": "Arkanoid",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "EA5415FA|crc",
+      "db_name": "Paddle & Trackball Games.lpl"
+    },
+    {
+      "path": "/storage/roms/Paddle & Trackball Games/arkretrn.zip",
+      "label": "Arkanoid Returns",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "F32095A3|crc",
+      "db_name": "Paddle & Trackball Games.lpl"
+    },
+    {
+      "path": "/storage/roms/Paddle & Trackball Games/arknoid2.zip",
+      "label": "Arkanoid: Revenge of DOH",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "C9FB6010|crc",
+      "db_name": "Paddle & Trackball Games.lpl"
+    },
+    {
+      "path": "/storage/roms/Paddle & Trackball Games/bking.zip",
+      "label": "Birdie King",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "C26544B5|crc",
+      "db_name": "Paddle & Trackball Games.lpl"
+    },
+    {
+      "path": "/storage/roms/Paddle & Trackball Games/cameltry.zip",
+      "label": "Cameltry",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "7B13D78F|crc",
+      "db_name": "Paddle & Trackball Games.lpl"
+    },
+    {
+      "path": "/storage/roms/Paddle & Trackball Games/marinedt.zip",
+      "label": "Marine Date",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "Paddle & Trackball Games.lpl"
+    },
+    {
+      "path": "/storage/roms/Paddle & Trackball Games/plumppop.zip",
+      "label": "Plump Pop",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "2AB5A90D|crc",
+      "db_name": "Paddle & Trackball Games.lpl"
+    },
+    {
+      "path": "/storage/roms/Paddle & Trackball Games/puchicar.zip",
+      "label": "Puchi Carat",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "6B410BCB|crc",
+      "db_name": "Paddle & Trackball Games.lpl"
+    },
+    {
+      "path": "/storage/roms/Paddle & Trackball Games/sbowling.zip",
+      "label": "Strike Bowling",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "B3192B3C|crc",
+      "db_name": "Paddle & Trackball Games.lpl"
+    },
+    {
+      "path": "/storage/roms/Paddle & Trackball Games/syvalion.zip",
+      "label": "Syvalion",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "5AEB20EE|crc",
+      "db_name": "Paddle & Trackball Games.lpl"
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/storage/roms/Taito EGRET II mini/bublbobl.zip",
+      "label": "Bubble Bobble",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/bubblem.zip",
+      "label": "Bubble Memories",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/bubsymphu.zip",
+      "label": "Bubble Symphony",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/cadash.zip",
+      "label": "CADASH",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/chaknpop.zip",
+      "label": "Chack'n Pop",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "A71E561A|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/dankuga.zip",
+      "label": "DAN-KU-GA",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "3A71D5F4|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/dariusg.zip",
+      "label": "Darius Gaiden",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/dondokod.zip",
+      "label": "Don Doko Don",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/elevator.zip",
+      "label": "Elevator Action",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/elvactr.zip",
+      "label": "Elevator Action Returns",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/gunfront.zip",
+      "label": "Gun Frontier",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/halleysc.zip",
+      "label": "Halleys Comet",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/hthero.zip",
+      "label": "Hat Trick Hero",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/kaiserkn.zip",
+      "label": "Kaiser Knuckle",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/kikikai.zip",
+      "label": "Kiki Kaikai",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/ktiger.zip",
+      "label": "Kyukyoku Tiger",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/lrescue.zip",
+      "label": "Lunar Rescue",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/lupin3.zip",
+      "label": "Lupin III",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/metalb.zip",
+      "label": "Metal Black",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/mizubaku.zip",
+      "label": "Mizubaku Daibouken",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/ninjak.zip",
+      "label": "Ninja Kids",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/outzone.zip",
+      "label": "Outer Zone",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "8A297BF8|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/piratpet.zip",
+      "label": "Pirate Pete",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/pbobble2x.zip",
+      "label": "Puzzle Bobble 2x",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/qix.zip",
+      "label": "Qix",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/raimais.zip",
+      "label": "Raimais",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/rbislande.zip",
+      "label": "Rainbow Islands Extra",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "844FD794|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/rastan.zip",
+      "label": "Rastan Saga",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/rayforce.zip",
+      "label": "Rayforce",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/runark.zip",
+      "label": "Runark",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/tokio.zip",
+      "label": "Scramble Formation",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/invaders.zip",
+      "label": "Space Invaders",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/steelwkr.zip",
+      "label": "Steel Worker",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "71814B71|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/truxton.zip",
+      "label": "Tatsujin",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "8888F98F|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/flstory.zip",
+      "label": "The Fairyland Story",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/lkage.zip",
+      "label": "The Legend of Kage",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/tnzs.zip",
+      "label": "The Newzealand Story",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/viofight.zip",
+      "label": "Violent Fight",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "/storage/roms/Taito EGRET II mini/volfied.zip",
+      "label": "Volfied",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    }
+  ]
+}
