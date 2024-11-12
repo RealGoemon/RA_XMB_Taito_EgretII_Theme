@@ -12,7 +12,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\advcanoe.zip",
       "label": "Adventure Canoe",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -20,7 +20,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\bublbobl.zip",
       "label": "Bubble Bobble",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -28,7 +28,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\bubblem.zip",
       "label": "Bubble Memories",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -36,7 +36,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\bubsymphu.zip",
       "label": "Bubble Symphony",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -44,7 +44,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\cadash.zip",
       "label": "CADASH",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -52,7 +52,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\chaknpop.zip",
       "label": "Chack'n Pop",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -60,7 +60,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\dankuga.zip",
       "label": "DAN-KU-GA",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -68,7 +68,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\dariusg.zip",
       "label": "Darius Gaiden",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -76,7 +76,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\dondokod.zip",
       "label": "Don Doko Don",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -84,7 +84,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\elevator.zip",
       "label": "Elevator Action",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -92,7 +92,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\elvactr.zip",
       "label": "Elevator Action Returns",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -100,7 +100,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\gunfront.zip",
       "label": "Gun Frontier",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -108,7 +108,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\halleysc.zip",
       "label": "Halleys Comet",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -124,23 +124,31 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\kaiserkn.zip",
       "label": "Kaiser Knuckle",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
     {
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\kikikai.zip",
       "label": "Kiki Kaikai",
-      "core_path": "C:\\RA Egret II\\cores\\mame2010_libretro.dll",
-      "core_name": "Arcade (MAME 2010)",
+      "core_path": "C:\\RA Egret II\\cores\\fbneo_libretro.dll",
+      "core_name": "Taito EGRET II",
+      "crc32": "00000000|crc",
+      "db_name": "Taito EGRET II mini.lpl"
+    },
+    {
+      "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\kozure.zip",
+      "label": "Kozure Okami",
+      "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
     {
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\ktiger.zip",
       "label": "Kyukyoku Tiger",
-      "core_path": "C:\\RA Egret II\\cores\\mame2010_libretro.dll",
-      "core_name": "Arcade (MAME 2010)",
+      "core_path": "C:\\RA Egret II\\cores\\fbneo_libretro.dll",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -164,7 +172,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\metalb.zip",
       "label": "Metal Black",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -172,7 +180,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\mizubaku.zip",
       "label": "Mizubaku Daibouken",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -180,7 +188,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\ninjak.zip",
       "label": "Ninja Kids",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -188,7 +196,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\outzone.zip",
       "label": "Outer Zone",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -204,7 +212,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\pbobble2x.zip",
       "label": "Puzzle Bobble 2x",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -212,7 +220,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\qix.zip",
       "label": "Qix",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -220,7 +228,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\raimais.zip",
       "label": "Raimais",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -228,7 +236,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\rbislande.zip",
       "label": "Rainbow Islands Extra",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -236,7 +244,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\rastan.zip",
       "label": "Rastan Saga",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -244,7 +252,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\rayforce.zip",
       "label": "Rayforce",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -252,7 +260,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\runark.zip",
       "label": "Runark",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -260,7 +268,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\tokio.zip",
       "label": "Scramble Formation",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -268,7 +276,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\invaders.zip",
       "label": "Space Invaders",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -284,7 +292,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\truxton.zip",
       "label": "Tatsujin",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -292,7 +300,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\flstory.zip",
       "label": "The Fairyland Story",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -300,7 +308,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\lkage.zip",
       "label": "The Legend of Kage",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -308,7 +316,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\tnzs.zip",
       "label": "The Newzealand Story",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -316,7 +324,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\viofight.zip",
       "label": "Violent Fight",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     },
@@ -324,7 +332,7 @@
       "path": "C:\\RA Egret II\\roms\\Taito Egret II mini\\volfied.zip",
       "label": "Volfied",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Taito EGRET II mini.lpl"
     }

@@ -12,7 +12,7 @@
       "path": "C:\\RA Egret II\\roms\\Arcade Memories Vol.2\\chukatai.zip",
       "label": "Chuka Taisen (Cloud Master)",
       "core_path": "C:\\RA Egret II\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Arcade Memories Vol.2.lpl"
     },
@@ -20,15 +20,15 @@
       "path": "C:\\RA Egret II\\roms\\Arcade Memories Vol.2\\crimec.zip",
       "label": "Crime City",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Arcade Memories Vol.2.lpl"
     },
     {
       "path": "C:\\RA Egret II\\roms\\Arcade Memories Vol.2\\ktiger2.zip",
       "label": "Kyukyoku Tiger 2",
-      "core_path": "C:\\RetroArch-Win64\\cores\\mame2010_libretro.dll",
-      "core_name": "Arcade (MAME 2010)",
+      "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Arcade Memories Vol.2.lpl"
     },
@@ -36,23 +36,23 @@
       "path": "C:\\RA Egret II\\roms\\Arcade Memories Vol.2\\nightstr.zip",
       "label": "Night Striker",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Arcade Memories Vol.2.lpl"
     },
     {
       "path": "C:\\RA Egret II\\roms\\Arcade Memories Vol.2\\opwolf.zip",
       "label": "Operation Wolf",
-      "core_path": "C:\\RetroArch-Win64\\cores\\mame2010_libretro.dll",
-      "core_name": "Arcade (MAME 2010)",
+      "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Arcade Memories Vol.2.lpl"
     },
     {
       "path": "C:\\RA Egret II\\roms\\Arcade Memories Vol.2\\retofinv.zip",
       "label": "Return of the Invaders",
-      "core_path": "C:\\RetroArch-Win64\\cores\\mame2010_libretro.dll",
-      "core_name": "Arcade (MAME 2010)",
+      "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Arcade Memories Vol.2.lpl"
     },
@@ -60,15 +60,15 @@
       "path": "C:\\RA Egret II\\roms\\Arcade Memories Vol.2\\tndrcadej.zip",
       "label": "Tokusyu Butai U.A.G",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Arcade Memories Vol.2.lpl"
     },
     {
       "path": "C:\\RA Egret II\\roms\\Arcade Memories Vol.2\\wardner.zip",
       "label": "Wardner",
-      "core_path": "C:\\RetroArch-Win64\\cores\\mame2010_libretro.dll",
-      "core_name": "Arcade (MAME 2010)",
+      "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Arcade Memories Vol.2.lpl"
     },
@@ -76,7 +76,7 @@
       "path": "C:\\RA Egret II\\roms\\Arcade Memories Vol.2\\wyvernf0.zip",
       "label": "Wyvern F0",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Arcade Memories Vol.2.lpl"
     },
@@ -84,7 +84,7 @@
       "path": "C:\\RA Egret II\\roms\\Arcade Memories Vol.2\\yuyugogo.zip",
       "label": "Yuuyu Go! Go!",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Arcade Memories Vol.2.lpl"
     }

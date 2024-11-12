@@ -12,15 +12,15 @@
       "path": "C:\\RA Egret II\\roms\\Paddle & Trackball Games\\arkanoid.zip",
       "label": "Arkanoid",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Paddle & Trackball Games.lpl"
     },
     {
       "path": "C:\\RA Egret II\\roms\\Paddle & Trackball Games\\arkretrn.zip",
       "label": "Arkanoid Returns",
-      "core_path": "C:\\RetroArch-Win64\\cores\\mame2010_libretro.dll",
-      "core_name": "Arcade (MAME 2010)",
+      "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Paddle & Trackball Games.lpl"
     },
@@ -28,7 +28,7 @@
       "path": "C:\\RA Egret II\\roms\\Paddle & Trackball Games\\arknoid2.zip",
       "label": "Arkanoid: Revenge of DOH",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Paddle & Trackball Games.lpl"
     },
@@ -44,7 +44,7 @@
       "path": "C:\\RA Egret II\\roms\\Paddle & Trackball Games\\cameltry.zip",
       "label": "Cameltry",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Paddle & Trackball Games.lpl"
     },
@@ -59,8 +59,8 @@
     {
       "path": "C:\\RA Egret II\\roms\\Paddle & Trackball Games\\plumppop.zip",
       "label": "Plump Pop",
-      "core_path": "C:\\RetroArch-Win64\\cores\\mame2010_libretro.dll",
-      "core_name": "Arcade (MAME 2010)",
+      "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Paddle & Trackball Games.lpl"
     },
@@ -68,7 +68,7 @@
       "path": "C:\\RA Egret II\\roms\\Paddle & Trackball Games\\puchicar.zip",
       "label": "Puchi Carat",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Paddle & Trackball Games.lpl"
     },
@@ -84,7 +84,7 @@
       "path": "C:\\RA Egret II\\roms\\Paddle & Trackball Games\\syvalion.zip",
       "label": "Syvalion",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Paddle & Trackball Games.lpl"
     }

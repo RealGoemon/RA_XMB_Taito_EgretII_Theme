@@ -12,7 +12,7 @@
       "path": "C:\\RA Egret II\\roms\\Arcade Memories Vol.1\\cleopatr.zip",
       "label": "Cleopatra Fortune",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Arcade Memories Vol.1.lpl"
     },
@@ -20,7 +20,7 @@
       "path": "C:\\RA Egret II\\roms\\Arcade Memories Vol.1\\daisenpu.zip",
       "label": "Daisenpu",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Arcade Memories Vol.1.lpl"
     },
@@ -28,7 +28,7 @@
       "path": "C:\\RA Egret II\\roms\\Arcade Memories Vol.1\\gekiridn.zip",
       "label": "Gekirindan",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Arcade Memories Vol.1.lpl"
     },
@@ -51,8 +51,8 @@
     {
       "path": "C:\\RA Egret II\\roms\\Arcade Memories Vol.1\\gseeker.zip",
       "label": "GRID SEEKER",
-      "core_path": "C:\\RetroArch-Win64\\cores\\mame2010_libretro.dll",
-      "core_name": "Arcade (MAME 2010)",
+      "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Arcade Memories Vol.1.lpl"
     },
@@ -60,7 +60,7 @@
       "path": "C:\\RA Egret II\\roms\\Arcade Memories Vol.1\\lightbr.zip",
       "label": "LIGHTBRINGER",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Arcade Memories Vol.1.lpl"
     },
@@ -68,7 +68,7 @@
       "path": "C:\\RA Egret II\\roms\\Arcade Memories Vol.1\\pulirula.zip",
       "label": "Pu-Li-Ru-La",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Arcade Memories Vol.1.lpl"
     },
@@ -76,15 +76,15 @@
       "path": "C:\\RA Egret II\\roms\\Arcade Memories Vol.1\\ridingf.zip",
       "label": "RIDING FIGHT",
       "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Arcade Memories Vol.1.lpl"
     },
     {
       "path": "C:\\RA Egret II\\roms\\Arcade Memories Vol.1\\slapfigh.zip",
       "label": "SLAP FIGHT",
-      "core_path": "C:\\RetroArch-Win64\\cores\\mame2010_libretro.dll",
-      "core_name": "Arcade (MAME 2010)",
+      "core_path": "C:\\RetroArch-Win64\\cores\\fbneo_libretro.dll",
+      "core_name": "Taito EGRET II",
       "crc32": "00000000|crc",
       "db_name": "Arcade Memories Vol.1.lpl"
     }
